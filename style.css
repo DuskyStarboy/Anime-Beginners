@@ -87,3 +87,15 @@ footer {
     color: #999;
     border-top: 1px solid #333;
 }
+
+a:link{
+    color: rgb(0, 132, 255);
+}
+
+a:visited{
+    color: rgb(98, 31, 255);
+}
+
+a:hover{
+    color: rgb(21, 189, 255);
+}
