@@ -31,7 +31,7 @@ a {
     transition: color 0.2s ease;
 }
 
-a:link{
+a:link {
     color: #2c87ff;
 }
 
@@ -39,7 +39,7 @@ a:hover {
     color: #67a8fd;
 }
 
-a:visited{
+a:visited {
     color: #3300c0;
 }
 
@@ -99,4 +99,4 @@ td {
 
 tr:nth-child(even) td {
     background-color: #1a1a1d;
-} 
+}
